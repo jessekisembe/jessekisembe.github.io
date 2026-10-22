@@ -47,9 +47,7 @@ author_profile: true
     <div class="publication-year">{{ post.date | date: "%Y" }}</div>
     <div class="publication-details">
       <div class="publication-venue">{{ post.venue | escape }}</div>
-      <h2>
-        <a href="{{ base_path }}{{ post.url }}">{{ post.title | escape }}</a>
-      </h2>
+      <h2>{{ post.title | escape }}</h2>
 
       {% if post.authors %}
       <div class="publication-authors">
