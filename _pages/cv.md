@@ -20,9 +20,3 @@ Education
 * Ph.D. in Geography (Concentration in Climate Science), University of Florida, 2027 (expected) 
 * Master of Science in Disaster Risk Management, Makerere University, 2021
 * Bachelor of Science in Meteorology, Makerere University, 2017
-
-Selected Publications
-=====
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
