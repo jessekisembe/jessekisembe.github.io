@@ -68,6 +68,10 @@ author_profile: true
 </div>
 
 <style>
+.publication-authors strong {
+  font-family: "Lato-Bold", "Lato", Arial, sans-serif;
+  font-weight: 700;
+}  
 .publication-filters {
   display: flex;
   flex-wrap: wrap;
