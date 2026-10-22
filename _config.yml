@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kevin Schwarzwald"
+title                    : "Jesse Kisembe"
 title_separator          : "-"
-name                     : &name "Kevin Schwarzwald"
-description              : &description "Interdisciplinary climate scientist helping inform climate impacts projections and decision-making under uncertainty"
-url                      : https://ks905383.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jesse Kisembe"
+description              : &description "Climate researcher studying intraseasonal rainfall variability to help inform agricultural planning and climate adaptation"
+url                      : https://jessekisembe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ks905383/ks905383.github.io"
+repository               : "jessekisembe/jessekisembe.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Kevin Schwarzwald"
   avatar           : "headshot.jpeg"
-  bio              : "Interdisciplinary climate researcher helping inform climate impacts projections and decision-making under uncertainty"
-  location         : "New York, NY"
-  employer         : "Columbia University, IRI, LDEO"
+  bio              : "Climate researcher studying intraseasonal rainfall variability to help inform agricultural planning and climate adaptation"
+  location         : "Gainesville, FL"
+  employer         : "Department of Geography, University of Florida"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=mIwi0EwAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Sems0SgAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  https://www.researchgate.net/profile/Jesse-Kisembe-2
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ks905383"
+  github           : "jessekisembe"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/0000-0001-8309-7124"
+  linkedin         : "https://www.linkedin.com/in/jesse-kisembe-432441133/?isSelfProfile=true"
+  orcid            : "https://orcid.org/0009-0001-9990-2711"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "@ks905383"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Etc/GMT+4 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
