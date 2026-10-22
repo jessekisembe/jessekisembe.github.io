@@ -5,6 +5,6 @@ permalink: /publication/Nimusiima_et_al_2023
 excerpt: ''
 date: 2023-12-20
 venue: 'American Journal of Climate Change'
-paperurl: 'https://doi.org/10.1007/s00704-025-05461-8'
+paperurl: 'https://doi.org/10.4236/ajcc.2023.124028'
 citation: 'Nimusiima, Alex, Isaac Mugume, Clare Abigaba, **Jesse Kisembe**, Ronald I. Odongo, Moses Ojara, Godwin Ayesiga, and Bob A. Ogwang'
 ---
