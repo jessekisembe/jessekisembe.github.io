@@ -1,7 +1,7 @@
 ---
 title: "Contrasting Changes in Rainy Season Length, Rainfall Frequency, and Intensity across Eastern Africa"
 collection: publications
-permalink: /publication/anderson_etal_jhm_2023
+permalink: /publication/Kisembe_et_al_2026
 excerpt: ''
 date: 2026-03-01
 venue: 'Journal of Hydrometeorology'
