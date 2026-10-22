@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jesse Kisembe"
 title_separator          : "-"
 name                     : &name "Jesse Kisembe"
-description              : &description "Climate researcher studying intraseasonal rainfall variability to help inform agricultural planning and climate adaptation"
+description              : &description "Climate researcher studying intraseasonal rainfall variability to help inform agricultural decision-making"
 url                      : https://jessekisembe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jessekisembe/jessekisembe.github.io"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kevin Schwarzwald"
-  avatar           : "headshot.jpeg"
-  bio              : "Climate researcher studying intraseasonal rainfall variability to help inform agricultural planning and climate adaptation"
+  name             : "Jesse Kisembe"
+  avatar           : "headshot.jpg"
+  bio              : "Climate researcher studying intraseasonal rainfall variability to help inform agricultural decision-making"
   location         : "Gainesville, FL"
-  employer         : "Department of Geography, University of Florida"
+  employer         : "University of Florida"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Sems0SgAAAAJ&hl=en"
   email            :
