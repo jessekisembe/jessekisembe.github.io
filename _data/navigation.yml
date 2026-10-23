@@ -1,4 +1,4 @@
-# main links links
+e# main links links
 main:
   - title: "Publications"
     url: /publications/
@@ -6,11 +6,11 @@ main:
   #- title: "Talks"
   #  url: /talks/     
     
+  - title: "News"
+    url: /press/
+
   - title: "CV"
     url: /cv/
-
-  - title: "Press"
-    url: /press/
 
   #- title: "Climate Uncertainty Lab"
   #  url: /cul/
