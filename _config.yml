@@ -86,7 +86,7 @@ author:
   employer         : "University of Florida"
   location         : "Gainesville, FL"
   pubmed           : 
-  googlescholar    : #"https://scholar.google.com/citations?user=Sems0SgAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=Sems0SgAAAAJ&hl=en"
   email            :
   researchgate     : #"https://www.researchgate.net/profile/Jesse-Kisembe-2"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"jessekisembe"
+  github           : "jessekisembe"
   google_plus      :
   keybase          :
   instagram        :
