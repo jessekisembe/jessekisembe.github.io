@@ -58,8 +58,8 @@ author_profile: true
 
 <style>
 .publication-authors strong {
-  font-family: "Lato-Bold", "Lato", Arial, sans-serif;
-  font-weight: 900;
+  font-family: "IBM Plex Sans", Arial, sans-serif;
+  font-weight: 700;
   text-decoration: underline;
   text-underline-offset: 3px;
 }  
