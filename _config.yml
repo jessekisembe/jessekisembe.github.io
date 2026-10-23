@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jesse Kisembe"
   avatar           : "headshot.JPG"
-  bio              : "Climate researcher studying intraseasonal rainfall variability to help inform agricultural decision-making"
+  bio              : #"Climate researcher studying intraseasonal rainfall variability to help inform agricultural decision-making"
   employer         : #"University of Florida"
   location         : #"Gainesville, FL"
   pubmed           : 
