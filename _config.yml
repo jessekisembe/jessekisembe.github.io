@@ -86,9 +86,9 @@ author:
   employer         : "University of Florida"
   location         : "Gainesville, FL"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Sems0SgAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=Sems0SgAAAAJ&hl=en"
   email            :
-  researchgate     :  #"https://www.researchgate.net/profile/Jesse-Kisembe-2"
+  researchgate     : #"https://www.researchgate.net/profile/Jesse-Kisembe-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/jesse-kisembe-432441133/?isSelfProfile=true"
-  orcid            : "https://orcid.org/0009-0001-9990-2711"
+  orcid            : #"https://orcid.org/0009-0001-9990-2711"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
