@@ -3,16 +3,18 @@ layout: archive
 title: ""
 permalink: /press/
 author_profile: true
-header:
-  text_color: $dark-gray
-  
 ---
 
-{% include base_path %}
+## Looking beyond seasonal rainfall totals: How East Africa's rainy seasons are changing
 
-2023 ASciNA Award
-======
+The [Climate Hazards Center](https://chc.ucsb.edu/) featured my [paper](https://doi.org/10.1175/JHM-D-25-0080.1) on how rainy seasons are changing in East Africa.
 
-* "Forschungsnachwuchs in den USA ausgezeichnet" ("_Young Researchers in the USA honored_") in _ORF_. [Link](https://science.orf.at/stories/3221598). [_Link in English_](https://science-orf-at.translate.goog/stories/3221598?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp). 
-* "ARIT: Österreichische Forschende werden in den USA ausgezeichnet" ("_ARIT Conference: Austrian researchers honored in the USA_") in the _Kurier_. [Link](https://kurier.at/wirtschaft/karriere/arit-ascina-awards-los-angeles/402627512). [_Link in English_](https://kurier-at.translate.goog/wirtschaft/karriere/arit-ascina-awards-los-angeles/402627512?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp).
-* "Österreich will Forschertalente aus den USA zurückholen" ("_Austria wants to bring back research talents from the USA_") in the _Salzburger Nachrichten_ (🔒). [Link](https://www.sn.at/panorama/wissen/oesterreich-forschertalente-usa-146575723). [_Link in English_](https://www-sn-at.translate.goog/panorama/wissen/oesterreich-forschertalente-usa-146575723?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp).
+[Read the full feature →](https://blog.chc.ucsb.edu/?p=1997)
+
+
+## NASA FINESST Award
+
+I was selected for NASA's Future Investigators in NASA Earth and Space Science and Technology (FINESST) fellowship to investigate dry spell events in the Horn of Africa.
+
+[Read the full feature →](https://news.clas.ufl.edu/uf-doctoral-students-honored-with-nasa-finesst-award/)
+
