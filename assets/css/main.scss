@@ -39,3 +39,18 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Main website typography */
+body,
+h1, h2, h3, h4, h5, h6,
+.masthead__inner-wrap,
+.sidebar p,
+.sidebar li,
+.sidebar .author__name,
+.author__urls-wrapper,
+.archive__item-title,
+.page__footer-copyright,
+.page__footer-follow li,
+button, input, select, textarea {
+  font-family: "IBM Plex Sans", Arial, sans-serif;
+}
