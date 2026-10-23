@@ -8,33 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm an interdisciplinary climate scientist helping inform climate impacts projections and decision-making under uncertainty. I'm currently a Postdoc at the University of California, Davis, working with Fran Moore, Adam Sobel, and Michael Tippett on the Value of Information of climate projections. I was previously a [Columbia Climate School Postdoc](https://www.climate.columbia.edu/postdoctoral-research-program), working with Radley Horton and Gernot Wagner on uncertainty in projections of climate impacts, especially in high-risk, data-sparse regions. I recently defended my PhD in Earth and Environmental Sciences from Columbia University, having worked with Richard Seager (and previously [Lisa Goddard](https://www.nytimes.com/2022/01/22/climate/lisa-goddard-dead.html)) at Lamont-Doherty Earth Observatory and the International Research Institute for Climate and Society ([IRI](iri.columbia.edu)). 
+I'm a climate scientist studying intraseasonal rainfall variability to help inform agricultural decision-making. I'm currently a Ph.D. Candidate in the [Department of Geography](https://geog.ufl.edu/) at the University of Florida, working with [Berry Wen](https://www.stonybrook.edu/somas/people/faculty/berry-wen.html) (now at Stony Brook University).
 
-I've studied the drivers of the long and short rains in East Africa, internal variability in climate models, and the sensitivity of climate impact projections to uncertainty in climate data. I've [found](https://www.pnas.org/doi/abs/10.1073/pnas.2208095119) that climate impact projections need to incorporate the 'internal' variability of the climate to avoid underestimating tail risks, that both oceanic and atmospheric biases are [causing](https://link.springer.com/article/10.1007/s00382-022-06622-5) climate models to poorly simuate the rainfall in East Africa, but also that better understanding the region's fundamental dynamics [can help us](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-23-0126.1/JCLI-D-23-0126.1.xml) better prepare for the future. 
-
-I've [co-written](https://climateestimate.net/content/getting-started.html) a tutorial on using climate data in climate econometrics. I've taught lessons and seminars on climate projections and climate change at the middle school, high school, undergraduate, and master's level. I write python and R packages such as [this one](https://github.com/ks905383/xagg) on aggregating gridded data onto geographic regions or [this one](https://github.com/ks905383/quantproj) that uses the delta method to bias-correct and downscale Large Ensemble projections. I care about open-source data, replicability, and democratization of science tools, and I believe [science is a social enterprise](https://news.harvard.edu/gazette/story/2019/10/in-why-trust-science-naomi-oreskes-explains-why-the-process-of-proof-is-worth-trusting/) that works better when it's diverse, open, and accessible. I co-founded [NENSIC](nensic.org), an interdisciplinary network to bring together students and young professionals interested in climate issues from any background. 
-
-
-Recent news
-======
-_09/2026_ - I joined the Department of Environmental Science and Policy at UC Davis as a postdoctoral scholar.
-
-_08/2026_ - Great to visit IIASA in Laxenburg outside of Vienna and talk about climate uncertainty, projections of climate impacts, pattern scaling, and much more... 
-
-_05/2026_ - Excited to present a highlighted talk at the 2026 EGU Annual Meeting on uncertainty in climate impact projections!
-
-_10/2024_ - I joined the [Como Summer School on Compound Events](https://drive.google.com/file/d/1mpK3l-ZNc5LEBmUp-0uaK_yRepNwh5fm/view) team as a supervisor for a project on projections of compound extremes. 
-
-_10/2024_ - I had a great time visiting the Oxford School of Geography and the Environment to give a talk on recent developments in East African climate research, and greatly appreciated the change to exchange ideas on improving climate forecasts and projections in the region. 
-
-_09/2024_ - I started a Columbia Climate School Postdoctoral position, working on uncertainty in projections of climate impacts. 
-
-_07/2024_ - I visited the Max-Planck-Institut für Meteorologie in Hamburg, and presented on recent research on East African rainfall. 
-
-_04/2024_ - Catch me at the 2024 EGU Annual Meeting in Vienna, [presenting](https://meetingorganizer.copernicus.org/EGU24/EGU24-4687.html) on trends in the East African long rains!
-
-_11/2023_ - I'm attending the 2023 [**CATER School**](https://caterschools.net/2023-school) on Transdisciplinary Climate Risk Adaptation and Action in Naivasha, Kenya.
-
-_10/2023_ -  I attended the 2023 **WCRP Open Science Conference** in Kigali, Rwanda, presenting on climate model behavior in East Africa and uncertainty in climate impacts. 
-
-_10/2023_ - I won the 2023 **ASciNA Young Researcher Award** for Austrian Scientists and Scholars in North America.
+My work is motivated by a simple question: What matters most for livelihoods, the total amount of rain a season brings or when, how often, and how intensely it falls? I've [found](https://doi.org/10.1175/JHM-D-25-0080.1) that examining seasonal rainfall totals together with rainfall timing, frequency, and intensity gives a fuller picture of how rainy seasons are changing across East Africa. I've also shown that understanding how the rainy season onset relates to other rainfall characteristics within the season can help us understand how the season is likely to unfold.
