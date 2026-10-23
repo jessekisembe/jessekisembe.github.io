@@ -59,7 +59,7 @@ author_profile: true
 <style>
 .publication-authors strong {
   font-family: "Lato-Bold", "Lato", Arial, sans-serif;
-  font-weight: 500;
+  font-weight: 700;
   text-decoration: underline;
   text-underline-offset: 3px;
 }
