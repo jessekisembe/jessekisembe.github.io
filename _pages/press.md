@@ -5,19 +5,19 @@ permalink: /press/
 author_profile: true
 ---
 
-<p class="news-intro">Research highlights, awards, and media coverage.</p>
+<p class="news-intro">Research highlights</p>
 
 <div class="jk-news-list">
 
   <a class="jk-news-item" href="https://blog.chc.ucsb.edu/?p=1997">
     <div class="jk-news-content">
       <span class="jk-news-meta">
-        June 24, 2026 · UCSB Climate Hazards Center
+        June 24, 2026
       </span>
       <h2>Looking beyond seasonal rainfall totals</h2>
       <p>
         The Climate Hazards Center features my research on how
-        East Africa’s rainy seasons are changing and why rainfall
+        East Africa's rainy seasons are changing and why rainfall
         timing, frequency, and intensity matter.
       </p>
     </div>
@@ -28,9 +28,9 @@ author_profile: true
      href="https://news.clas.ufl.edu/uf-doctoral-students-honored-with-nasa-finesst-award/">
     <div class="jk-news-content">
       <span class="jk-news-meta">
-        2025 award cycle · University of Florida
+        November 18, 2025
       </span>
-      <h2>NASA FINESST fellowship supports dry-spell research</h2>
+      <h2>NASA FINESST Award supports dry-spell research</h2>
       <p>
         UF highlights my selection for a NASA FINESST fellowship
         to investigate dry spell events in the Horn of Africa.
