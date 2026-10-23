@@ -11,8 +11,8 @@ author_profile: true
 {% if site.author.googlescholar %}
 <p>
   Below is a list of my peer-reviewed publications, ordered from newest
-  to oldest, with my name in bold. Citation metrics are available on
-  <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
+  to oldest, with my name in **bold**. Citation metrics are available on
+  <a href="{{ site.author.googlescholar }}">my Google Scholar Profile</a>.
 </p>
 {% endif %}
 
