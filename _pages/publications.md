@@ -1,29 +1,18 @@
 ---
 layout: archive
-title: "PUBLICATIONS"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
-
-<!--
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
 
 {% include base_path %}
 {% assign papers = site.publications | sort: "date" | reverse %}
 
 {% if site.author.googlescholar %}
 <p>
-  See also my
-  <a href="{{ site.author.googlescholar }}">Google Scholar profile</a>.
+  Below is a list of my peer-reviewed publications, ordered from newest
+  to oldest, with my name in bold. Citation metrics are available on
+  <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
 </p>
 {% endif %}
 
