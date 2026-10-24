@@ -35,23 +35,21 @@ I'm a climate scientist studying intraseasonal rainfall variability to help info
 
 ## Research
 
-My doctoral work is motivated by a simple question: **What matters most for livelihoods, the total amount of rain a season brings or when, how often, and how intensely it falls?**
-
-I've [found](https://doi.org/10.1175/JHM-D-25-0080.1) that examining seasonal rainfall totals together with rainfall timing, frequency, and intensity gives a fuller picture of how rainy seasons are changing across East Africa. I've also shown that understanding how the rainy season onset relates to other rainfall characteristics within the season can help us understand how the season is likely to unfold.
+My doctoral work is motivated by a simple question: **What matters most for livelihoods, the total amount of rain a season brings or when, how often, and how intensely it falls?** I've [found](https://doi.org/10.1175/JHM-D-25-0080.1) that examining seasonal rainfall totals together with rainfall timing, frequency, and intensity gives a fuller picture of how rainy seasons are changing across East Africa. I've also shown that understanding how the rainy season onset relates to other rainfall characteristics within the season can help us understand how the season is likely to unfold.
 
 [Explore my publications →]({{ '/publications/' | relative_url }})
 
 </section>
 
 <section id="recent-news" class="home-section">
-  <h2>Recent news</h2>
+  <h2>Recent News</h2>
 
   <div class="home-news-list">
     <a class="home-news-row"
        href="{{ '/news/2026-06-24/' | relative_url }}">
       <div>
         <span class="home-news-date">
-          June 24, 2026 · Research feature
+          June 24, 2026
         </span>
         <h3>Looking beyond seasonal rainfall totals</h3>
         <p>
@@ -78,8 +76,8 @@ I've [found](https://doi.org/10.1175/JHM-D-25-0080.1) that examining seasonal ra
     </a>
   </div>
 
-  <p class="home-all-news">
-    <a href="{{ '/press/' | relative_url }}">All news →</a>
+  <p class="home-Read-More-News">
+    <a href="{{ '/press/' | relative_url }}">Read More News →</a>
   </p>
 </section>
 
