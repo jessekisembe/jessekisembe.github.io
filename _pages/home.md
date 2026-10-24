@@ -68,7 +68,7 @@ My doctoral work is motivated by a simple question: **What matters most for live
         </span>
         <h3>Jesse Kisembe receives a NASA FINESST Award</h3>
         <p>
-          I received funding for my proposal on "**Delineating and Characterizing Dry Spell Events in the Horn of Africa**" 
+          My proposal on Delineating and Characterizing Dry Spell Events in the Horn of Africa is selected for funding  
         </p>
       </div>
       <span class="home-news-arrow" aria-hidden="true">→</span>
