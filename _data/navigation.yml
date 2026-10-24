@@ -6,11 +6,11 @@ main:
   # - title: "Talks"
   #   url: /talks/
 
-  - title: "News"
-    url: /press/
+  #- title: "News"
+  #  url: /press/
 
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
 
   # - title: "Climate Uncertainty Lab"
   #   url: /cul/
