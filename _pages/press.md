@@ -1,11 +1,13 @@
 ---
 layout: archive
-title: "News"
-permalink: /press/
+title: "News Archive"
+permalink: /news/
 author_profile: true
+redirect_from:
+  - /press/
 ---
 
-<p class="news-intro">Research highlights</p>
+<p class="news-intro">All News</p>
 
 <div class="jk-news-list">
 
