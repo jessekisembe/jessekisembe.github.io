@@ -49,12 +49,11 @@ My doctoral work is motivated by a simple question: **What matters most for live
        href="{{ '/news/2026-06-24/' | relative_url }}">
       <div>
         <span class="home-news-date">
-          June 24, 2026
+          March 01, 2026
         </span>
-        <h3>Looking beyond seasonal rainfall totals</h3>
+        <h3>New research suggests contrasting changes in East Africa's rainy seasons</h3>
         <p>
-          The UCSB Climate Hazards Center features our research
-          on how East Africa’s rainy seasons are changing.
+          Published in the Journal of Hydrometeorology with collaboration with researchers at the UCSB Climate Hazards Center and University of Leeds.
         </p>
       </div>
       <span class="home-news-arrow" aria-hidden="true">→</span>
@@ -64,11 +63,11 @@ My doctoral work is motivated by a simple question: **What matters most for live
        href="{{ '/news/nasa-finesst/' | relative_url }}">
       <div>
         <span class="home-news-date">
-          November 18, 2025
+          June 14, 2025
         </span>
         <h3>Jesse Kisembe receives a NASA FINESST Award</h3>
         <p>
-          My proposal on Delineating and Characterizing Dry Spell Events in the Horn of Africa is selected for funding  
+          My proposal: Delineating and Characterizing Dry Spell Events in the Horn of Africa, is selected for funding  
         </p>
       </div>
       <span class="home-news-arrow" aria-hidden="true">→</span>
