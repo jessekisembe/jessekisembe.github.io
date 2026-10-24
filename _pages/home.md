@@ -25,7 +25,7 @@ redirect_from:
 
 <section id="introduction" class="home-section" markdown="1">
 
-## Introduction
+## About Me
 
 I'm a climate scientist studying intraseasonal rainfall variability to help inform agricultural decision-making. I'm currently a Ph.D. Candidate in the [Department of Geography](https://geog.ufl.edu/) at the University of Florida, working with [Berry Wen](https://www.stonybrook.edu/somas/people/faculty/berry-wen.html) (now at Stony Brook University).
 
@@ -64,7 +64,7 @@ My doctoral work is motivated by a simple question: **What matters most for live
        href="{{ '/news/nasa-finesst/' | relative_url }}">
       <div>
         <span class="home-news-date">
-          2025 award cycle · Fellowship
+          November 182025 award cycle · Fellowship
         </span>
         <h3>NASA FINESST fellowship supports dry-spell research</h3>
         <p>
