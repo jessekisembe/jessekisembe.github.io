@@ -77,7 +77,7 @@ My doctoral work is motivated by a simple question: **What matters most for live
   </div>
 
   <p class="home-Read-More-News">
-    <a href="{{ '/press/' | relative_url }}">Read More News →</a>
+    <a href="{{ '/news/' | relative_url }}">Read More News →</a>
   </p>
 </section>
 
