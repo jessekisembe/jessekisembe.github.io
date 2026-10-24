@@ -64,12 +64,11 @@ My doctoral work is motivated by a simple question: **What matters most for live
        href="{{ '/news/nasa-finesst/' | relative_url }}">
       <div>
         <span class="home-news-date">
-          November 182025 award cycle · Fellowship
+          November 18, 2025
         </span>
-        <h3>NASA FINESST fellowship supports dry-spell research</h3>
+        <h3>Jesse Kisembe receives a NASA FINESST Award</h3>
         <p>
-          NASA funding supports my research on dry spell events
-          in the Horn of Africa.
+          I received funding for my proposal on "**Delineating and Characterizing Dry Spell Events in the Horn of Africa**" 
         </p>
       </div>
       <span class="home-news-arrow" aria-hidden="true">→</span>
