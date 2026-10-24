@@ -5,9 +5,9 @@ permalink: /news/2026-06-24/
 author_profile: true
 ---
 
-[← Home]({{ '/' | relative_url }}) · [All news]({{ '/press/' | relative_url }})
+[← Recent News]({{ '/' | relative_url }}#recent-news)
 
-*June 24, 2026 · UCSB Climate Hazards Center*
+June 24, 2026
 
 The UCSB Climate Hazards Center featured our research on how rainy seasons are changing across eastern Africa, highlighting why seasonal rainfall totals alone do not tell the whole story.
 
